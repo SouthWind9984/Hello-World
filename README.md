@@ -1,10 +1,7 @@
 # hello-word
 This is just one program.
-package 第二周练习;
 
-//import java.util.Scanner;
-
-public class 找素数 {
+import java.util.Scanner;
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -26,4 +23,3 @@ public class 找素数 {
 		}
 			
 	}
-}
